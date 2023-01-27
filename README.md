@@ -1,0 +1,1 @@
+Local dev environment for my Advanced Clicktrack editor application
